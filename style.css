@@ -1,0 +1,88 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: rgba(173, 211, 211, 0.927);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px;
+    
+    
+}
+.home{
+    width: 100px;
+    height: 25px;
+    background-color:rgb(196, 186, 186);
+    padding-left: 60px;
+    padding-top: 10px;
+    
+    border:1.5px solid black ;
+    border-radius: 5px;
+}
+.github{
+    width: 85px;
+    height: 25px;
+    background-color: rgb(223, 204, 204);
+    padding-left: 30px;
+    padding-top: 10px;
+    margin-left: 15px;
+    border:1.5px solid black ;
+    border-radius: 5px;   
+}
+a{
+    text-decoration: none;
+    color:black;
+
+}
+.container {
+    width: 100%px;
+    height: 825px;
+  
+    background-color: #797978;
+    padding-left: 480px;
+  }
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+  }
+  
+  #weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+  
+  #results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
+  
+  button {
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #fff;
+    padding: 1px 30px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+    cursor: pointer;
+    font-size: 25px;
+  }
+  
+  h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
+  
